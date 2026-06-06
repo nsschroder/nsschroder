@@ -17,7 +17,7 @@ Full Stack Developer focused on building modern, robust, and scalable web applic
 ### 📊 Statistics
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsschroder&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nsschroder&show_icons=true&theme=dark&hide_border=true&disable_animations=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsschroder&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
 </p>
 
